@@ -26,3 +26,8 @@
 	Run this file directly to see the output window.
 	Enter the required inputs and get the desired output as per the details entered.
 	
+![Output_1](https://user-images.githubusercontent.com/49095782/111474525-2b646580-8752-11eb-9d35-48ae0889f72c.jpg)
+
+![Output_2](https://user-images.githubusercontent.com/49095782/111474581-38815480-8752-11eb-8b8f-62581c5ffc24.jpg)
+
+![Output_3](https://user-images.githubusercontent.com/49095782/111474600-3dde9f00-8752-11eb-98fe-978d28bd7d7f.jpg)
