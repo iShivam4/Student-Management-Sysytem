@@ -52,4 +52,5 @@ def loadData(entity):
                 break
         else:
             print("Data not Found")
+            print("Press Q to exit.")
             exit()
